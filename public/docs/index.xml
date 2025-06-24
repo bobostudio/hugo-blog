@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>波罗密 – Docs</title>
+    <link>http://localhost:8102/docs/</link>
+    <description>Recent content in Docs on 波罗密</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 Jun 2025 23:00:17 +0800</lastBuildDate>
+    
+	  <atom:link href="http://localhost:8102/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
