@@ -5,7 +5,7 @@ languages:
   zh-cn:
     languageName: 中文
     weight: 1
-    contentDir: content
+    contentDir: content/zh-cn
     title: 波罗密
     menu:
       main:
