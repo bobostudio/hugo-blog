@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bobostudio – 关于我</title>
-    <link>http://localhost:1313/about/</link>
+    <link>http://localhost:1313/en/about/</link>
     <description>Recent content in 关于我 on bobostudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Jun 2025 23:14:41 +0800</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/en/about/index.xml" rel="self" type="application/rss+xml" />
     
     
       
