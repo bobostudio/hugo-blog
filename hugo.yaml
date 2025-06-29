@@ -54,6 +54,7 @@ params:
       repoId: R_kgDOPBaC1g
       category: Announcements
       categoryId: DIC_kwDOPBaC1s4Cr9Jr
+      dataLang: en_us
   search:
     enable: true
     type: flexsearch
