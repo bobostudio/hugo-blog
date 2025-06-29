@@ -1,7 +1,10 @@
 ---
 date: "2025-06-29T15:40:44+08:00"
-draft: true
+draft: false
 title: "📃 Obsidian腾讯云图床插件"
+cascade:
+  type: docs
+comments: true
 ---
 
 ## 软件名称

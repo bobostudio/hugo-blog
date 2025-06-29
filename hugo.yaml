@@ -1,6 +1,6 @@
-baseURL: https://bobostudio.eu.org/
+baseURL: https://bobostudio.eu.org
 defaultContentLanguage: zh-cn
-title: bobostudio's  Blog
+title: bobostudio
 module:
   imports:
     - path: github.com/imfing/hextra
@@ -36,6 +36,16 @@ params:
     #   enable: true
   page:
     width: normal
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+    article:
+      displayPagination: true
+  toc:
+    displayTags: true
   comments:
     enable: false
     type: giscus
@@ -64,3 +74,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+enableEmoji: true

@@ -1,7 +1,9 @@
 ---
 date: "2025-06-29T15:15:48+08:00"
-draft: fase
+draft: false
 title: "📃 声波宇宙插件推荐"
+cascade:
+  type: docs
 comments: true
 ---
 
