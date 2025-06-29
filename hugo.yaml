@@ -1,5 +1,6 @@
 baseURL: https://bobostudio.eu.org
 defaultContentLanguage: zh-cn
+languageCode: en
 title: bobostudio
 module:
   imports:
